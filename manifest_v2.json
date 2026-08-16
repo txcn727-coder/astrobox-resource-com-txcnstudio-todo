@@ -25,21 +25,21 @@
     {
       "title": "云端同步",
       "url": "https://txcn.top/checklist",
-      "icon": ""
+      "icon": "CloudArrowUp"
     },
     {
       "title": "捐赠我们",
       "url": "https://www.ifdian.net/a/txcnbyxiaomi",
-      "icon": ""
+      "icon": "Money"
     }
   ],
   "downloads": {
     "xmb10p": {
-      "version": "V2.5.2",
+      "version": "2.5.2",
       "file_name": "downloads/com.txcnstudio.todo.release.2.5.2.rpk"
     },
     "xmb9p": {
-      "version": "V2.5.2",
+      "version": "2.5.2",
       "file_name": "downloads/com.txcnstudio.todo.release.2.5.2.rpk"
     }
   },
